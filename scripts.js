@@ -1,3 +1,4 @@
+
 $(function () {
     // Get the current hour in 24-hour time
     const currentHour = new Date().getHours();
